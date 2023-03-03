@@ -1,4 +1,5 @@
 # ChatwithChatGPT
+Chat with ChatGPT in Python's terminal.
 
 ## Install
 ```
