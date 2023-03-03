@@ -1,10 +1,7 @@
 import openai
 import argparse
 
-#Streaming endpoint
-API_URL = "https://api.openai.com/v1/chat/completions" #os.getenv("API_URL") + "/generate_stream"
-
-# Load your API key from an environment variable or secret management service
+# Load your API key from local file
 openai.api_key_path = "OPENAI_API_KEY.txt"
 
 def predict(input, chat_history, params): 
