@@ -20,6 +20,7 @@ For example:
 python ChatwithChatGPT.py  --temperature 0.1 --max_tokens 30 --debug True
 ```
 
+For GUI, try this space https://huggingface.co/spaces/WeihaoTan/ChatGPTwithAPI
 
 ## Open AI API docs
 https://platform.openai.com/docs/api-reference/introduction  
